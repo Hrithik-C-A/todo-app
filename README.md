@@ -1,2 +1,0 @@
-# todo-app
-team-project
